@@ -27,3 +27,9 @@ options:
                         Path to save the summary.csv. Then load into excel or sheets for analysis
   --show_portfolio      Show portfolio performance (close the windown to proceed)
 ```
+
+Take a look at the Jupyter notebook
+
+```
+jupyter notebook notebooks/BackTestDayOfWeek.ipynb
+```
